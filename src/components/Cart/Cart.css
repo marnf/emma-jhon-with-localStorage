@@ -4,3 +4,11 @@
     position: sticky;
     top: 0;
 }
+
+.clear-btn{
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px;
+}
